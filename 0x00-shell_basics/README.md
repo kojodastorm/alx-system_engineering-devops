@@ -53,3 +53,7 @@ This list files in multiple directories
 <H2>TASK 12
 <H3>12-file_type
 This will indicate the file type of a file
+
+<H2>TASK 13
+<H3>13-symbolic_link
+This creates a symbolic link to a file
