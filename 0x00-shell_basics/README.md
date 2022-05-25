@@ -33,3 +33,7 @@ This will create a new directory called my_first_directory in /tmp/
 <H2>TASK 7
 <H3>7-movethatfile
 This will move a file into a directory
+
+<H2>TASK 8
+<H3>8-firstdelete
+This will delete a file
