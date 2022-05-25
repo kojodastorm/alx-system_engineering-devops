@@ -22,3 +22,6 @@ This will list the files in the current working directory
 <H3>4-listmorefiles
 This will list the files in the current working directory including . and ..
 
+<H2>TASK 5
+<H3>4-listfilesdigitonly
+This will list the files in the current working directory including . and .. and display only digits for the usernames
