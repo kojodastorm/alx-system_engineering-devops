@@ -29,3 +29,7 @@ This will list the files in the current working directory including . and .. and
 <H2>TASK 6
 <H3>6-firstdirectory
 This will create a new directory called my_first_directory in /tmp/
+
+<H2>TASK 7
+<H3>7-movethatfile
+This will move a file into a directory
