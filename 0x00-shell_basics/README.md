@@ -66,6 +66,10 @@ This will copy only .html files and update the destination
 <H3>100-lets_move
 This will move files that have upercase letters at the begining
 
-<H2>TASK 15
+<H2>TASK 16
 <H3>101-clean_emacs
 This will delete all files ending with ~
+
+<H2>TASK 17
+<H3>102-tree
+This will create multiple directories
