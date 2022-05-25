@@ -17,3 +17,8 @@ This will bring the user to the home directory
 <H2>TASK 3
 <H3>3-listfiles
 This will list the files in the current working directory
+
+<H2>TASK 4
+<H3>4-listmorefiles
+This will list the files in the current working directory including . and ..
+
