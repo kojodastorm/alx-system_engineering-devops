@@ -10,3 +10,10 @@ This prints the working directory of the location the script is run
 <H3>1-listit
 This will list the content of the files
 
+<H2>TASK 2
+<H3>2-bring_me_home
+This will bring the user to the home directory
+
+<H2>TASK 3
+<H3>3-listfiles
+This will list the files in the current working directory
