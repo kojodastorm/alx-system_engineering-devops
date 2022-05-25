@@ -23,5 +23,9 @@ This will list the files in the current working directory
 This will list the files in the current working directory including . and ..
 
 <H2>TASK 5
-<H3>4-listfilesdigitonly
+<H3>5-listfilesdigitonly
 This will list the files in the current working directory including . and .. and display only digits for the usernames
+
+<H2>TASK 6
+<H3>6-firstdirectory
+This will create a new directory called my_first_directory in /tmp/
