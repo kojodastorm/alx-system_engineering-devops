@@ -49,3 +49,7 @@ This will take the user to the previous directory they were just in
 <H2>TASK 11
 <H3>11-lists
 This list files in multiple directories
+
+<H2>TASK 12
+<H3>12-file_type
+This will indicate the file type of a file
