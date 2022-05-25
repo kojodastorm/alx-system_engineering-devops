@@ -41,3 +41,7 @@ This will delete a file
 <H2>TASK 9
 <H3>9-firstdirdeletion
 This will delete a directory
+
+<H2>TASK 10
+<H3>10-back
+This will take the user to the previous directory they were just in
