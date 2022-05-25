@@ -73,3 +73,7 @@ This will delete all files ending with ~
 <H2>TASK 17
 <H3>102-tree
 This will create multiple directories
+
+<H2>TASK 18
+<H3>103-commas
+This will reformat ls command to have commas, sort, forward slash and all files
