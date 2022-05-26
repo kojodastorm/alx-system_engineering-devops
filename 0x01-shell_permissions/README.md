@@ -3,3 +3,5 @@
 0-iam_betty This will switch user to betty
 <H2>1. Who am I
 1-who_am_i This will print the effective username of the current user
+<H2>2. Groups
+2-groups This will print the groups of the current user
