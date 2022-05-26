@@ -27,6 +27,7 @@
 12-directory_permissions This will create a directory and assign it permissions
 <H2>13. Change group
 13-change_group This will change the group owner of the file
-
 <H2>14. Owner and group
 100-change_owner_and_group This will change the group and owner of the file
+<H2>15. Symbolic links
+101-symbolic_link_permissions This will change the group and owner of a symbolic link
