@@ -5,3 +5,5 @@
 1-who_am_i This will print the effective username of the current user
 <H2>2. Groups
 2-groups This will print the groups of the current user
+<H2>3. New owner
+3-new_owner This will change the owner of a file
