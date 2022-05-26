@@ -21,3 +21,5 @@
 9-John_Doe This will set specific permissions
 <H2>10. Look in the mirror
 10-mirror_permissions This will mirror the permissions of another file
+<H2>11. Directories
+11-directories_permissions This will give permission to only directories
