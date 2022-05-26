@@ -23,3 +23,5 @@
 10-mirror_permissions This will mirror the permissions of another file
 <H2>11. Directories
 11-directories_permissions This will give permission to only directories
+<H2>12. More directories
+12-directory_permissions This will create a directory and assign it permissions
