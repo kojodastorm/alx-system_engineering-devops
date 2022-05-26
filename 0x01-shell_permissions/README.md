@@ -11,3 +11,5 @@
 4-empty This will create an empty file
 <H2>5. Execute
 5-execute This will add execute rights to a file
+<H2>6. Multiple permissions
+6-multiple_permissions This will change multiple permissions of a file
