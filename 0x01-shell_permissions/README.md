@@ -17,3 +17,5 @@
 7-everybody this will add execution to some user groups
 <H2>8. James Bond
 8-James_Bond This will set no permissions to all exept others
+<H2>9. John Doe
+9-John_Doe This will set specific permissions
