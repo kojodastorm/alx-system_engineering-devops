@@ -19,3 +19,5 @@
 8-James_Bond This will set no permissions to all exept others
 <H2>9. John Doe
 9-John_Doe This will set specific permissions
+<H2>10. Look in the mirror
+10-mirror_permissions This will mirror the permissions of another file
