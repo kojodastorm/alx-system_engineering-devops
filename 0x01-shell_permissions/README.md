@@ -15,3 +15,5 @@
 6-multiple_permissions This will change multiple permissions of a file
 <H2>7. Everybody!
 7-everybody this will add execution to some user groups
+<H2>8. James Bond
+8-James_Bond This will set no permissions to all exept others
