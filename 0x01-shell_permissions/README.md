@@ -9,3 +9,5 @@
 3-new_owner This will change the owner of a file
 <H2>4. Empty!
 4-empty This will create an empty file
+<H2>5. Execute
+5-execute This will add execute rights to a file
