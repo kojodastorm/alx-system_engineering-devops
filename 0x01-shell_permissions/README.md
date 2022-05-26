@@ -13,3 +13,5 @@
 5-execute This will add execute rights to a file
 <H2>6. Multiple permissions
 6-multiple_permissions This will change multiple permissions of a file
+<H2>7. Everybody!
+7-everybody this will add execution to some user groups
