@@ -1,1 +1,2 @@
 #!/bin/bash
+echo hello $(echo $HOME | cut -d / -f 2)
